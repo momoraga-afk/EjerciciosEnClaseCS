@@ -1,0 +1,14 @@
+C:\restaVectores\Magnitud\magnitudVectores\bin\Debug\net10.0\magnitudVectores.exe
+C:\restaVectores\Magnitud\magnitudVectores\bin\Debug\net10.0\magnitudVectores.deps.json
+C:\restaVectores\Magnitud\magnitudVectores\bin\Debug\net10.0\magnitudVectores.runtimeconfig.json
+C:\restaVectores\Magnitud\magnitudVectores\bin\Debug\net10.0\magnitudVectores.dll
+C:\restaVectores\Magnitud\magnitudVectores\bin\Debug\net10.0\magnitudVectores.pdb
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.AssemblyInfoInputs.cache
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.AssemblyInfo.cs
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.csproj.CoreCompileInputs.cache
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.dll
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\refint\magnitudVectores.dll
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.pdb
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\magnitudVectores.genruntimeconfig.cache
+C:\restaVectores\Magnitud\magnitudVectores\obj\Debug\net10.0\ref\magnitudVectores.dll

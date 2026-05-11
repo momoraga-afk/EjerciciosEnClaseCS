@@ -1,0 +1,14 @@
+C:\restaVectores\productoEscalar\productEsca\bin\Debug\net10.0\productEsca.exe
+C:\restaVectores\productoEscalar\productEsca\bin\Debug\net10.0\productEsca.deps.json
+C:\restaVectores\productoEscalar\productEsca\bin\Debug\net10.0\productEsca.runtimeconfig.json
+C:\restaVectores\productoEscalar\productEsca\bin\Debug\net10.0\productEsca.dll
+C:\restaVectores\productoEscalar\productEsca\bin\Debug\net10.0\productEsca.pdb
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.GeneratedMSBuildEditorConfig.editorconfig
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.AssemblyInfoInputs.cache
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.AssemblyInfo.cs
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.csproj.CoreCompileInputs.cache
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.dll
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\refint\productEsca.dll
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.pdb
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\productEsca.genruntimeconfig.cache
+C:\restaVectores\productoEscalar\productEsca\obj\Debug\net10.0\ref\productEsca.dll
