@@ -1,0 +1,15 @@
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\bin\Debug\net10.0\resta.exe
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\bin\Debug\net10.0\resta.deps.json
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\bin\Debug\net10.0\resta.runtimeconfig.json
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\bin\Debug\net10.0\resta.dll
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\bin\Debug\net10.0\resta.pdb
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.GeneratedMSBuildEditorConfig.editorconfig
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.AssemblyInfoInputs.cache
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.AssemblyInfo.cs
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.csproj.CoreCompileInputs.cache
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.sourcelink.json
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.dll
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\refint\resta.dll
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.pdb
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\resta.genruntimeconfig.cache
+C:\restaVectores\EjerciciosEnClaseCS\restaVectores\resta\obj\Debug\net10.0\ref\resta.dll
